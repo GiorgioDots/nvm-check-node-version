@@ -1,6 +1,8 @@
 # Node.js Version Checker with NVM
 
-This package is a simple script to check if the currently installed version of Node.js matches a specified version. If the version does not match, the script will automatically switch to the required version using **NVM (Node Version Manager)**, and install it if necessary.
+This package is a simple script to check if the currently installed version of Node.js matches a specified version. If the version does not match, the script will automatically switch to the required version using **NVM (Node Version Manager)**, and install it if necessary. 
+
+This is especially useful when working on multiple projects with different Node.js versions. For example, you can add a **prestart** script like `prestart: nvm-node-version-checker 22.8.0` in your package.json to ensure the correct version of Node.js is used before starting the project.
 
 ## Features
 - Ensures the required Node.js version is being used.
