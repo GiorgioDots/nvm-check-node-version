@@ -1,6 +1,6 @@
 {
   "name": "nvm-node-version-checker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A utility to ensure the correct Node.js version is being used with NVM. If the specified version is not installed, the script will automatically install it and set it as the active version.",
   "main": "bin/index.js",
   "bin": {
