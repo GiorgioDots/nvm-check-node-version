@@ -1,0 +1,25 @@
+{
+  "name": "nvm-node-version-checker",
+  "version": "1.0.0",
+  "description": "A utility to ensure the correct Node.js version is being used with NVM. If the specified version is not installed, the script will automatically install it and set it as the active version.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiorgioDots/nvm-node-version-checker.git"
+  },
+  "keywords": [
+    "nvm",
+    "node",
+    "node",
+    "version"
+  ],
+  "author": "GiorgioDots",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GiorgioDots/nvm-node-version-checker/issues"
+  },
+  "homepage": "https://github.com/GiorgioDots/nvm-node-version-checker#readme"
+}
