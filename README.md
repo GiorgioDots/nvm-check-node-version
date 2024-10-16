@@ -58,6 +58,8 @@ Node.js version loaded successfully.
 Process completed, ready to go!
 ```
 
+## Node 22.9.0 is used to develop this package
+
 ## License
 
 This project is licensed under the MIT License.
